@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Francicleia Cardoso, I'm a girl who loves plants and learning new things.🌱
+- 👋 Hi, I’m Léia Cardoso, I'm a girl who loves plants and learning new things.🌱
 - 👀 I’m interested in Data Science and technology in general. 
 - 🌱 I’m currently learning python, machine learning, SQL.
 - 📫 https://www.linkedin.com/in/cardosofranci
